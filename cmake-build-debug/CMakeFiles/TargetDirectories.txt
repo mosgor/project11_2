@@ -1,0 +1,3 @@
+/home/mosgor/CLionProjects/project11.2/cmake-build-debug/CMakeFiles/project11_2.dir
+/home/mosgor/CLionProjects/project11.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mosgor/CLionProjects/project11.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
